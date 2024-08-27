@@ -40,7 +40,7 @@ export default function Home() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Ananda Dimmas Budiarto - Fullstack Developer dan Devops" />
         <meta name="twitter:description" content="Ananda Dimmas Budiarto, a Fullstack Developer And Devops with high-level experience in both front-end and back-end web development, creating robust and scalable applications with quality work." />
-        <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1602384184911093760/-FuyNI4J_400x400.jpg" />
+        <meta name="twitter:image" content="https://anandadimmas.com/packages/images/icon2.png" />
         <meta name="twitter:site" content="@AnandaDimmas" />
         <meta name="twitter:creator" content="@AnandaDimmas" />
 
